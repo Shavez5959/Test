@@ -1,0 +1,5 @@
+# NOTE: field names below are examples. Rename them to match your actual
+# pullpatrol.yml specification.
+ignore_paths:
+  - ignored_dir/
+severity_threshold: low
